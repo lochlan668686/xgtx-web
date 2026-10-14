@@ -1,1 +1,0 @@
-import{j as t}from"./index-DlP6k70S.js";var n=!1,r=[];var a={path:function(t){return"/pkg_media/static/"+t+".jpg"},when:function(t){if(n)return t();if(r.push(t),!(r.length>1)){!function(){n=!0;var t=r;r=[],t.forEach(function(t){try{t()}catch(n){}})}()}}};const i=t(a);export{i as M,a as m};
